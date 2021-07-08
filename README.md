@@ -14,6 +14,7 @@
 - [docsite](https://github.com/txd-team/docsite) An opensource static website generator.
 - [atomic-docs](https://github.com/nickberens360/atomic-docs) Front end code documentation generator.
 - [docpress](https://github.com/docpress/docpress) Documentation website generator.
+- [docusaurus](https://github.com/facebook/docusaurus) Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
 
 ## API Docs
 
